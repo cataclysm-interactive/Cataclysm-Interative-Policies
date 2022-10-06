@@ -1,3 +1,7 @@
+layout: page
+title: "Privacy"
+permalink: /privacy
+
 # Privacy Policy
 
 Last updated: October 06, 2022
